@@ -9,9 +9,10 @@ type Props = {}
 const Navbar = (props: Props) => {
   return (
     <div>
-        <nav className='flex items-center justify-between gap-10 py-4 px-20 border-b'>
-    <section className='text-2xl fond-bold'>
+        <nav className='flex items-center justify-between gap-10 py-4 px-20 bg-gray-400 border-b'>
+    <section className='text-2xl font-bold'>
         Logo
+        <img src="" alt="" />
     </section>
 
     <ul className='flex items-center gap-10 text-lg'>
@@ -31,9 +32,10 @@ const Navbar = (props: Props) => {
         <Input placeholder='search items here'/>
         </section>
 
-        <section className='flex items-center gap'>
+        <section className='flex items-center gap-2'>
         <Button variant="outline">Button</Button>
         <Button variant="outline"><IoCartSharp size={24} /></Button>
+       
        
         
         </section>

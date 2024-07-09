@@ -1,0 +1,76 @@
+[
+    {
+    "id": "1",
+    "name" : "Samsung S24 Ultra",
+    "price":"180000",
+    "discount":"15",
+    "category":{
+    "imageUrl":"https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg"
+
+    
+},
+"stockQuantity":"687",
+"images":["https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg",
+"https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg"
+],
+
+
+
+"reviews":[
+    {
+        "username": "Abeen Khanal",
+        "rating": 4.6,
+        "message": "wow nice"
+    }
+]
+    },
+    {
+        "id": "1",
+        "name" : "Samsung S24 Ultra",
+        "price":"180000",
+        "discount":"15",
+        "category":{
+        "imageUrl":"https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg"
+    
+        
+    },
+    "stockQuantity":"687",
+    "images":["https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg",
+    "https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg"
+    ],
+    
+    
+    
+    "reviews":[
+        {
+            "username": "Abeen Khanal",
+            "rating": 4.6,
+            "message": "wow nice"
+        }
+    ]
+        },
+        {
+            "id": "1",
+            "name" : "Samsung S24 Ultra",
+            "price":"180000",
+            "discount":"15",
+            "category":{
+            "imageUrl":"https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg"
+        
+            
+        },
+        "stockQuantity":"687",
+        "images":["https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg",
+        "https://www.zdnet.com/a/img/2024/02/02/1bfa7d30-112c-4906-83a7-ce12551b7b16/galaxy-s24-ultra.jpg"
+        ],
+        
+        
+        
+        "reviews":[
+            {
+                "username": "Abeen Khanal",
+                "rating": 4.6,
+                "message": "wow nice"
+            }
+        ]
+            }]
