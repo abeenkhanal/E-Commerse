@@ -7,7 +7,7 @@ type Props = {};
 
 export default function CategoriesList({}: Props) {
   return (
-    <section className="flex justify-center gap-20  items-center">
+    <section className="grid grid-cols-6">
       {(categoriesData as Category[]).map((category, index) => {
         return (
           <div key={index} className="">

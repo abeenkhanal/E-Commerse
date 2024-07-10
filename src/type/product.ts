@@ -7,5 +7,5 @@ export type TProduct ={
     price: string,
     category: Category,
     stockQuantity: number,
-    image: string[],
+    images: string[],
 reviews:TReview[]}

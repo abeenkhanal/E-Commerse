@@ -13,7 +13,7 @@ export default function Singleproductcard({product}: Props) {
     <Card>
         <CardHeader>
             <Image
-            src= { product.image[0]}
+            src= { product.images[0]}
             alt={product.name}
             height={200}
             width={200}
