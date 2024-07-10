@@ -18,7 +18,7 @@ export default function singlecarditem({ category }: Props) {
 
                     <Image src={category.imageUrl}
                         alt='category image' height={100} width={100}
-                        className='w-auto h-[100px] object-cover' />
+                        className='w-auto h-[100px] rounded-md object-cover' />
                 </CardHeader>
 
                 <CardHeader>

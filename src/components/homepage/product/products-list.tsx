@@ -8,8 +8,8 @@ export default function productslist({ }: Props) {
     return (
         <section>
             {
-                (productDAta as TProduct[]).map((product, i) => {
-                    return <Singleproductcard key={i} product={product} />
+                (productDAta as TProduct[].map((product, ind)=>{
+                    return <Singleproductcard key={ind} product={product}/>
                 })
             }
         </section>
