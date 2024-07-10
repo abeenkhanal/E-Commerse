@@ -3,8 +3,8 @@ import productslist from './products-list'
 
 type Props = {}
 
-export default function Productwrapper({}: Props) {
-  return (
-    <div>product-wrapper</div>
-  )
+export default function Productwrapper({ }: Props) {
+    return (
+        <div>product-wrapper</div>
+    )
 }
